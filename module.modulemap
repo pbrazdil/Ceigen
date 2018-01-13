@@ -1,0 +1,5 @@
+module Ceigen [system] {
+  header "shim.h"
+  link "eigen3"
+  export *
+}
